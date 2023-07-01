@@ -52,20 +52,20 @@ if __name__ == "__main__":
     os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'
 
     print(colored('''
-    V 1.7
+    V 1.8 - aim stability improved!
     Changed download source''', "green"))
     print(colored('''
     FortnitePythonAimAsist (VIEaim) by:
-       _  _    ___   ___ 
-      / \/ \   |  \  |   \      /
-     / /\/\ \  |   \ |__  \    /
-    / /    \ \ |   / |     \  /
-   /_/      \_\|__/  |__    \/
+       _  _                  ____     ___   ___ 
+      / \/ \    | | || |  |  |____    |  \  |   \      /
+     / /\/\ \   | ||   |  |       |   |   \ |__  \    /
+    / /    \ \  | ||   |  |   ____|   |   / |     \  /
+   /_/      \_\ | | || |__|           |__/  |__    \/
     BEST UNDETECTED AIMBOT BY mikusDEV
       
 by--mikusgszyp (on github)
 [INFO] to aim, hold left mouse button
-    (Neural Network Aimbot)''', "blue"))
+    discord: mikustodown''', "blue"))
 
     print(colored('''
     [WARNING!] You need nvidia geforce 1050 or newer to run this without problems!

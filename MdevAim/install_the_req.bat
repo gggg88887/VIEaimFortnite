@@ -4,4 +4,5 @@ pip uninstall torchvision
 pip install --upgrade pip
 pip install ipython
 pip install psutil
+pip install ultralytics
 pip install -r requirements.txt
