@@ -1,4 +1,4 @@
-# Fortnite Aimbot by mikusDEV - README
+# Fortnite Aimbot by mikusDEV 
 
 ## Overview
 Fortnite Aimbot by mikusDEV offers an undetectable aimbot for precision in your Fortnite gaming.
